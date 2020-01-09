@@ -3,6 +3,6 @@ let token = '';
 
 class Spotify extends React.Component{
 
-}
+};
 
 export default Spotify
